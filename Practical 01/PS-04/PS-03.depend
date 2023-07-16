@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651048404 source:c:\users\user\desktop\ps-03\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<bits/stdc++.h>
+
+1651048404 source:c:\users\user\desktop\ps-04\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<bits/stdc++.h>
+

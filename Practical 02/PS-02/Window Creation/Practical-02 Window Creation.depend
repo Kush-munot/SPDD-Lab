@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655289380 source:d:\spdd lab-a 47\practical-02 window creation\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<windows.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650448430 source:c:\users\administrator\desktop\ps-02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
